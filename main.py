@@ -209,4 +209,4 @@ async def delete(ctx):
 
 
 
-client.run('ODkwMjg5NDI5NTczNDI3Mjky.YUtopA.luipJFIIy2-eR1MbLzAAMtjdW0s')
+client.run('ODkwMjg5NDI5NTczNDI3Mjky.YUtopA.kvJ9Jzlw0hZwfSWUBSuxwqYqntk')
