@@ -47,4 +47,4 @@ for filename in os.listdir('./cogs'):
 
 
 
-client.run('ODkwMjg5NDI5NTczNDI3Mjky.YUtopA.kvJ9Jzlw0hZwfSWUBSuxwqYqntk')
+client.run('#your bot token here')
